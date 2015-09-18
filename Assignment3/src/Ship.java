@@ -1,4 +1,3 @@
-
 public class Ship {
 	
 	private String shipName;
