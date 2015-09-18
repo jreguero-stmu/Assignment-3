@@ -1,4 +1,3 @@
-
 public class CargoShip extends Ship{
 	
 	private int maxCargo;
