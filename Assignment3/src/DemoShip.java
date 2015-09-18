@@ -1,4 +1,3 @@
-
 public class DemoShip {
 
 	public static void main(String[] args) {
