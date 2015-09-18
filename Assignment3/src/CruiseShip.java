@@ -1,4 +1,3 @@
-
 public class CruiseShip extends Ship{
 	
 	private int maxPassengers;
